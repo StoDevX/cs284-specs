@@ -1,0 +1,23 @@
+# F21
+---
+assignment: hw1
+
+compilers: 
+
+files:
+  - file: addints.js
+  - file: fact.js
+  - file: quote1.js
+  - file: tryif.js
+  - file: tryswitch.js
+  - file: rfact.js
+  - file: account.js
+  - file: scope.js
+  - file: nested.js
+  - file: sumfirst_f.js
+  - file: sumfirst_w.js
+  - file: sumfirst_w2.js
+  - file: sumfirst_d.js
+  - file: sumfirst_d2.js
+
+inputs:

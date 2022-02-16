@@ -1,0 +1,10 @@
+# F21
+---
+assignment: lab1
+
+compilers: 
+
+files:
+  - file: hello.txt
+  - file: try.js
+    tests: node $@

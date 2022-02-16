@@ -1,0 +1,14 @@
+# F21
+---
+assignment: hw2
+
+compilers: 
+
+files:
+  - file: sub2.js
+  - file: alt_fact.js
+  - file: series.js
+  - file: alt_rfact.js
+  - file: Account.js
+  - file: Book.js
+
